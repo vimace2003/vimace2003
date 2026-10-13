@@ -95,6 +95,12 @@ Firmware for an ESP8266 weather station: sends weather packets to APRS-IS, serve
   </tr>
 </table>
 
+## 🤝 Community
+
+- ☁️ Part of the Florianópolis chapter of [**Azure User Groups Brasil**](https://azureusergroupsbrasil.com.br/)
+- 🎤 Part of [**MVP Conf Regional Florianópolis**](https://mvpconf.com.br/regional/florianopolis/unisenai) at UniSENAI
+- 🐧 Contributor to [**Debian Hams**](https://wiki.debian.org/DebianHams), the Debian team that packages amateur radio software
+
 ## 📡 Off the clock
 
 I'm a licensed amateur radio operator, callsign **PP5KJ** ([pp5kj.com](https://pp5kj.com)). I also build things for the ham radio community, like [automated VHF weather bulletins](https://github.com/vimace2003/Previsao-do-tempo-VHF-Linux) voiced by Azure AI Speech and the [Portuguese translation of the N1MM Logger+ manual](https://github.com/vimace2003/N1MM-PTBR) for [GG52 Floripa DX](https://gg52floripadx.com/).
