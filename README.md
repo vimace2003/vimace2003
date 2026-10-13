@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/viniciusmcd/"><img src="https://img.shields.io/badge/LinkedIn-viniciusmcd-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzek0zOS4xNyAxMDdIMjEuMDZWNDguNzNoMTguMTF6bS05LTY2LjIxYTEwLjUgMTAuNSAwIDExMTAuNDktMTAuNSAxMC41IDEwLjUgMCAwMS0xMC41NCAxMC40OHpNMTA3IDEwN0g4OC44OVY3OC42NWMwLTYuNzUtLjEyLTE1LjQ0LTkuNDEtMTUuNDRzLTEwLjg3IDcuMzYtMTAuODcgMTVWMTA3SDUwLjUzVjQ4LjczaDE3LjM2djhoLjI0YzIuNDItNC41OCA4LjMyLTkuNDEgMTcuMTMtOS40MUMxMDMuNiA0Ny4yOCAxMDcgNTkuMzUgMTA3IDc1eiIvPjwvc3ZnPg==" alt="LinkedIn" /></a>
   <a href="mailto:vimace2003@gmail.com"><img src="https://img.shields.io/badge/Email-vimace2003%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://pp5kj.com"><img src="https://img.shields.io/badge/Website-pp5kj.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.instagram.com/lokomais/"><img src="https://img.shields.io/badge/Instagram-%40lokomais-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -15,8 +16,9 @@
 - 🛠️ DevOps Specialist at **TOTVS (Linx Food)**.
 - ⚙️ I like automating the whole path from commit to production: CI/CD pipelines, container images, infrastructure as code and the Linux servers underneath.
 - ☁️ Hands-on with **Azure** and **AWS**: the projects below include pipelines that deploy to Azure App Service and Terraform for AWS ECS/Fargate.
+- 🤝 Organizer and coordinator of **Azure User Groups Brasil** in Florianópolis and of **MVP Conf Regional Florianópolis**.
 - 📡 Licensed amateur radio operator (**PP5KJ**), so many of my side projects mix software, radio and hardware.
-- 📫 Best way to reach me: **vimace2003@gmail.com**
+- 📫 Best way to reach me: **vimace2003@gmail.com** or [LinkedIn](https://www.linkedin.com/in/viniciusmcd/)
 
 ## Tech stack
 
@@ -97,8 +99,8 @@ Firmware for an ESP8266 weather station: sends weather packets to APRS-IS, serve
 
 ## 🤝 Community
 
-- ☁️ Part of the Florianópolis chapter of [**Azure User Groups Brasil**](https://azureusergroupsbrasil.com.br/)
-- 🎤 Part of [**MVP Conf Regional Florianópolis**](https://mvpconf.com.br/regional/florianopolis/unisenai) at UniSENAI
+- ☁️ Organizer and coordinator of the Florianópolis chapter of [**Azure User Groups Brasil**](https://azureusergroupsbrasil.com.br/)
+- 🎤 Organizer and coordinator of [**MVP Conf Regional Florianópolis**](https://mvpconf.com.br/regional/florianopolis/unisenai) at UniSENAI
 - 🐧 Contributor to [**Debian Hams**](https://wiki.debian.org/DebianHams), the Debian team that packages amateur radio software
 - 📣 Advocate for [**Floci**](https://floci.io/), an open-source local emulator for AWS, Azure, GCP and OCI that lets you build and test without cloud credentials or bills
 
