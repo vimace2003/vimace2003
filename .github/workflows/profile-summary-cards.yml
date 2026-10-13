@@ -14,15 +14,21 @@ on:
 permissions:
   contents: write
 
+# Queue overlapping runs on the same branch instead of cancelling them, so a
+# run is never killed after it has already pushed its cards
 concurrency:
-  group: profile-summary-cards
-  cancel-in-progress: true
+  group: profile-summary-cards-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
+        with:
+          # Branch tip rather than the triggering commit, so a queued run can
+          # still push after an earlier run committed new cards
+          ref: ${{ github.ref_name }}
 
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
