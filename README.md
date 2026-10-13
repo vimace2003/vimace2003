@@ -102,9 +102,9 @@ I'm a licensed amateur radio operator, callsign **PP5KJ** ([pp5kj.com](https://p
 ## GitHub stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vimace2003/vimace2003/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile details" />
+  <img src="profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile details" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vimace2003/vimace2003/main/profile-summary-card-output/dracula/3-stats.svg" height="180" alt="Stats" />
-  <img src="https://raw.githubusercontent.com/vimace2003/vimace2003/main/profile-summary-card-output/dracula/2-most-commit-language.svg" height="180" alt="Most commit language" />
+  <img src="profile-summary-card-output/dracula/3-stats.svg" height="180" alt="Stats" />
+  <img src="profile-summary-card-output/dracula/2-most-commit-language.svg" height="180" alt="Most commit language" />
 </p>
