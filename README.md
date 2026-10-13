@@ -100,6 +100,7 @@ Firmware for an ESP8266 weather station: sends weather packets to APRS-IS, serve
 - ☁️ Part of the Florianópolis chapter of [**Azure User Groups Brasil**](https://azureusergroupsbrasil.com.br/)
 - 🎤 Part of [**MVP Conf Regional Florianópolis**](https://mvpconf.com.br/regional/florianopolis/unisenai) at UniSENAI
 - 🐧 Contributor to [**Debian Hams**](https://wiki.debian.org/DebianHams), the Debian team that packages amateur radio software
+- 📣 Advocate for [**Floci**](https://floci.io/), an open-source local emulator for AWS, Azure, GCP and OCI that lets you build and test without cloud credentials or bills
 
 ## 📡 Off the clock
 
