@@ -1,0 +1,36 @@
+# Generates the GitHub stats cards shown in README.md and commits them to
+# profile-summary-card-output/. Runs daily, on demand, and when this file changes.
+name: Profile summary cards
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # 03:00 in Brazil (UTC-3)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/profile-summary-cards.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-summary-cards
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: -3
+          THEME: dracula
+          # Static sites and docs would otherwise dominate the language cards
+          EXCLUDE: HTML,CSS
